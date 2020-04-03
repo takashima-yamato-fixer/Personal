@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1lsCHJR4EseKdiS5+Orl0XRn2TUxS1G74Czm+DbC5aImnqbcDlt2xgjcpEmgznkT0Ze3mwl8ra+Cswh9sb58A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\takashima.yamato\\Downloads\\Xamarin_Forms___Working_with_WebView\\iOS\\WorkingWithWebview.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\xamarin.essentials\\1.3.0\\xamarin.essentials.1.3.0.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\xamarin.forms\\4.5.0.396\\xamarin.forms.4.5.0.396.nupkg.sha512"
+  ],
+  "logs": []
+}

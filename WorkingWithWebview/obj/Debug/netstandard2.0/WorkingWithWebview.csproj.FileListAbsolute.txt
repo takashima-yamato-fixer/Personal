@@ -1,0 +1,10 @@
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.deps.json
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.dll
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.pdb
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.csprojAssemblyReference.cache
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.AssemblyInfoInputs.cache
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.AssemblyInfo.cs
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.dll
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.pdb
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.csproj.CoreCompileInputs.cache
+C:\Users\takashima.yamato\Downloads\Xamarin_Forms___Working_with_WebView\WorkingWithWebview\obj\Debug\netstandard2.0\XamlC.stamp

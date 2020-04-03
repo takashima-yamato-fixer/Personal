@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gA3B1qkqGn9GzxIJL6pD0aTvGCDWDS4pkORv5oKq5HjAehyv/PQjem3lN16C6Y9iBtr4g0FDVs0Fm0Cpr16kww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\takashima.yamato\\Downloads\\Xamarin_Forms___Working_with_WebView\\WorkingWithWebview\\WorkingWithWebview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\xamarin.essentials\\1.3.0\\xamarin.essentials.1.3.0.nupkg.sha512",
+    "C:\\Users\\takashima.yamato\\.nuget\\packages\\xamarin.forms\\4.5.0.396\\xamarin.forms.4.5.0.396.nupkg.sha512"
+  ],
+  "logs": []
+}
